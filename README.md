@@ -10,4 +10,5 @@ This project aims to provide a better understanding of the Math and programming 
 As a best practice, I've included detailed explanatory comments throughout the code to enhance understanding.¶
 
 The Kaggle Notebook: https://www.kaggle.com/code/mohamedshafeekt/neuralnetworkfromscratch/notebook
+
 The dataset used: https://www.kaggle.com/competitions/digit-recognizer 
